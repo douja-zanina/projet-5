@@ -1,0 +1,26 @@
+.ca1{
+    background-color:rgb(236,235,235);
+    border-radius:  10px;
+    padding:5% ;
+}
+.ca1:hover{
+    background-color:white;
+    border-radius:  10px;
+    padding:5% ;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.265);
+    color: orangered;
+}
+.icon-size{
+font-size: 25px;
+border-radius: 100%;
+border-color: white;
+width: 25%;
+height: 35%;
+border: black 3px solid;
+text-align: center;
+padding-top: 5%;
+}
+.arrow-pos{
+padding-left: 50%;
+margin-top: 10%;
+}
