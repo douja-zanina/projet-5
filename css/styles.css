@@ -8,7 +8,7 @@
     border-radius:  10px;
     padding:5% ;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.265);
-    color: orangered;
+    color: orange;
 }
 .icon-size{
 font-size: 25px;
@@ -23,4 +23,12 @@ padding-top: 5%;
 .arrow-pos{
 padding-left: 50%;
 margin-top: 10%;
+}
+.h55{
+    color:orange ;
+    padding: top;
+}
+.h22{
+    color:white ;
+    font-size: 40px;
 }
