@@ -32,3 +32,94 @@ margin-top: 10%;
     color:white ;
     font-size: 40px;
 }
+.h66{
+    color: orange;
+    font-size: 30px;
+}
+.cc{
+    color: orangered;
+    font-size: 50px;
+}
+.pp{
+    margin-top: 60%;
+}
+.dd{
+    background-color:rgb(236,235,235);
+    border-radius:  10px;
+    padding:5% ;   
+}
+#p1{
+    color: orange;
+    font-size: 25px;
+    font-weight: bold;
+}
+#p2{
+    font-weight: bold;
+    font-size: 55px;
+}
+#p3{
+    font-size: 30px;
+    font-weight: bold;
+}
+#p7{
+    color: gray;
+}
+.icon{
+    font-size: 25px;
+    width: 40%;
+    height: 35%;
+    text-align:right;
+    padding-right: 5%; 
+    color: white;
+}
+.ca2{
+    background-color:rgb(236,235,235);
+    border-radius:  10px;
+    padding:5% ;
+}
+.ca2:hover{
+    background-color:white;
+    border-radius:  10px;
+    padding:5% ;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.265);
+}
+.bb1{
+    background-color: rgb(246, 201, 209);
+}
+.bt{
+    background-color:rgba(255, 255, 255, 0);
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0);
+}
+.bt:hover{
+    background-color:rgba(255, 255, 255, 0);
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0);
+    background-color: black;
+    color: white;
+}
+.btt{
+    background-color:rgba(0, 0, 0, 0);
+}
+.btt:hover{
+    background-color:rgba(0, 0, 0, 0);
+    color: orange;
+}
+.btt1{
+    color: white;
+    padding: 20px;
+    background-color: black;
+}
+.btt1:hover{
+    color: white;
+    padding: 20px;
+    background-color:rgba(255, 255, 255, 0);
+    border-radius: 30px 30px 30px 30px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0);
+    background-color: black;
+    color: white;
+}
+.p2{
+    color: black;
+    font-weight: bold;
+}
