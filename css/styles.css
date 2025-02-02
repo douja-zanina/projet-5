@@ -57,6 +57,10 @@ margin-top: 10%;
     font-weight: bold;
     font-size: 55px;
 }
+#p77{
+    color: white;
+}
+
 #p3{
     font-size: 30px;
     font-weight: bold;
@@ -122,4 +126,49 @@ margin-top: 10%;
 .p2{
     color: black;
     font-weight: bold;
+}
+.btt2{
+    color: rgb(255, 255, 255) ;
+    background-color:black;
+    padding: 16px;
+    border-radius: 10px 10px 10px 10px;
+}
+.btt2:hover{
+    color: black ;
+    background-color: white;
+    border-color:black ;
+    padding: 16px;
+    border-radius: 10px 10px 10px 10px;
+}
+.bu1{
+    color: black;
+    background-color: white;
+}
+.bu1:hover{
+    color: white;
+    background-color: black;
+}
+footer{
+    background-color: black;
+}
+.c1{
+border-radius: 10%;
+background-color:rgba(0, 0, 0, 0.012);
+border-color: white;
+padding: 5%;
+}
+.ic1{
+    color: white;
+}
+.ic1:hover{
+    color: white;
+    color: orange;
+}
+#btt{
+   color: white;
+   padding-right:70%;
+}
+#btt:hover{
+    color: white;
+    color: orange;
 }
