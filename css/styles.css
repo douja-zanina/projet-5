@@ -172,3 +172,24 @@ padding: 5%;
     color: white;
     color: orange;
 }
+.contact{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10%;
+}
+input ,select,textarea{
+    background-color: azure !important;
+    border-radius: 10px !important;
+    border: black 2px solid !important;
+}
+#but{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+#but:hover{
+    background-color: white;
+    color: black;
+    width: 100%;
+    border: black 0.5px solid ;
+}
